@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Estimapp",
+    "description": "Planning poker for Quero Bolsa",
+    "slug": "estimapp",
+    "privacy": "public",
+    "sdkVersion": "22.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#4186e0",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#4186e0"
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf"]
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
